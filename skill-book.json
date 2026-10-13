@@ -6,6 +6,6 @@
   "guild_key": "guild_ai_project",
   "entry": "SKILL.md",
   "execution": "manual_or_member_owned_assistant",
-  "repository": "https://github.com/FreeTWAI-AI/freedom-skill-project-delivery",
+  "repository": "https://github.com/FreeTWAI/freedom-skill-project-delivery",
   "license": "NOASSERTION"
 }
