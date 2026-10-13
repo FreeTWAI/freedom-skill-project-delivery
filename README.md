@@ -11,9 +11,9 @@
 
 本 repo 的維護者負責「專案交付與 Sprint公會的原創入門手冊與可填模板。」這個模組；公會職稱與自填 GitHub slug 不授予寫入權。
 
-程式／內容入口：[SKILL.md](SKILL.md)、[RESULT-TEMPLATE.md](RESULT-TEMPLATE.md)、[skill-book.json](skill-book.json)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI-AI/freedom-skill-project-delivery/issues)認領、[查看既有 PR](https://github.com/FreeTWAI-AI/freedom-skill-project-delivery/pulls)避免重工。
+程式／內容入口：[SKILL.md](SKILL.md)、[RESULT-TEMPLATE.md](RESULT-TEMPLATE.md)、[skill-book.json](skill-book.json)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI/freedom-skill-project-delivery/issues)認領、[查看既有 PR](https://github.com/FreeTWAI/freedom-skill-project-delivery/pulls)避免重工。
 
-讓小隊把工作拆成可驗收、可回顧的成果。 不等於 PMP 資格、正式勞務合約或自動指派其他人的工作。 會員、公會、技能書授予和公開成果 ref 仍以中央平台 API 的紀錄為準；私人素材留在自己的儲存位置。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI-AI/freedom-platform)維護。
+讓小隊把工作拆成可驗收、可回顧的成果。 不等於 PMP 資格、正式勞務合約或自動指派其他人的工作。 會員、公會、技能書授予和公開成果 ref 仍以中央平台 API 的紀錄為準；私人素材留在自己的儲存位置。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI/freedom-platform)維護。
 <!-- freedom-repository-guide:end -->
 
 讓小隊把需求拆成可驗收、可回顧的成果。
